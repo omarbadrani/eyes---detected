@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)
 
-**Un système intelligent de vision par ordinateur pour prévenir l'endormissement au volant**
+**Un système intelligent de vision par ordinateur pour prévenir l'endormissement au volant***
 
 [Présentation](#présentation) • [Fonctionnalités](#fonctionnalités) • [Installation](#installation) • [Utilisation](#utilisation) • [Démonstration](#démonstration) • [Configuration](#configuration) • [Structure](#structure) • [Contribuer](#contribuer) • [Licence](#licence)
 
